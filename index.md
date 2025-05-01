@@ -4,7 +4,7 @@ This is my home page! My name is Brandon Furukawa and I am a student at [Cal Sta
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/BFurukawa01
+My GitHub page can be accessed here: [BFurukawa01](http://github.com/BFurukawa01)
 
 ### CPSC 120
 
